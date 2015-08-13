@@ -23,20 +23,16 @@ casks=(
   a-better-finder-rename
   aluxian-messenger
   bettertouchtool
-  chronosync
   duet
   easysimbl
   fastscripts
   firefox
   gyazo
-  hermes
-  hex-fiend
   iterm2
   karabiner
   launchbar
   menumeters
   midi-monitor
-  remote-desktop-connection
   scroll-reverser
   seil
   sharemouse
@@ -46,8 +42,6 @@ casks=(
   the-unarchiver
   todoist
   totalfinder
-  tower
-  transmission-remote-gui
   vagrant
   virtualbox
   vlc
